@@ -1,4 +1,22 @@
 
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Israt Jaman</h1></summary>
+  </ul>
+</div>
+
+<br/>
+
+<!--- about --->
+- 👋 Hi, I’m **[@IJ-Jany](https://github.com/IJ-Jany)**
+- 🖥️ I’m currently working on **React.js, Next.js, Javascript and Firebase** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
+- 🛠️ I’m currently learning **React Hooks, React Form**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
+- 📫 Feel free to reach me out **[Email](isratjany87@gmail.com@gmail.com)**
+  
+<br/>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/israt.jaman.jany.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/israt-jaman-jany-91981a387/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isratjany87@gmail.com) 
 
