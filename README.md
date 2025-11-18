@@ -1,5 +1,6 @@
+<img src="https://github.com/IJ-Jany/IJ-Jany/blob/main/Purple%20and%20Pink%20Minimalist%20Front-End%20Developer%20LinkedIn%20Banner.png" alt="Hello world">
 # 💫 Hi 👋, I'm Israt Jaman
-**A passionate Developer from Bangladesh**
+**I'm always curious—whether it's diving into new concepts, refining my skills, or experimenting with something fresh. If you enjoy learning and exploring too, feel free to connect with me!**
 
 Email Me 👉 ✉️ **isratjany87@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
